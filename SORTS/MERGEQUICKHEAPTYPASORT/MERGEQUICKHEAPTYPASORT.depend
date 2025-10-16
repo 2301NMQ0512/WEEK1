@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1760631072 source:d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\src\heap_sort.cpp
+	"heap_sort.h"
+
+1760631072 d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\include\heap_sort.h
+	<vector>
+
+1760631043 source:d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\src\merge_sort.cpp
+	"merge_sort.h"
+
+1760631043 d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\include\merge_sort.h
+	<vector>
+
+1760631054 source:d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\src\quick_sort.cpp
+	"quick_sort.h"
+
+1760631043 d:\bootcamp\dsa\week1-main\sorts\mergequickheaptypasort\include\quick_sort.h
+	<vector>
+
